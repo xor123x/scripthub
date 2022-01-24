@@ -1,0 +1,13 @@
+a = Instance.new("HopperBin")Â 
+a.BinType = 1Â 
+a.Parent = game.Players.LocalPlayer.Backpack
+wait(3)
+print("Delete Success")
+a = Instance.new("HopperBin")Â 
+a.BinType = 4Â 
+a.Parent = game.Players.LocalPlayer.Backpack
+wait(3)
+print("Copy Success")
+a = Instance.new("HopperBin")Â 
+a.BinType = 3Â 
+a.Parent = game.Players.LocalPlayer.Backpack
